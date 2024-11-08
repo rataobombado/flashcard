@@ -1,7 +1,15 @@
-body {
-    background-color:red;
-    font-family: Bai janjuree;
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
 }
+
+
+body { background: url(img/bg-desktop.webp);
+    background: url(img/bg-desktop.webp);
+    font-family: Bai janjuree;
+      font-family: bai jamjuree;
+    }
 
 footer {
     background-color: black;
